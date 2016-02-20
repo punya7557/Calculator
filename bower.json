@@ -1,0 +1,31 @@
+{
+  "name": "calculator",
+  "description": "ui calculator using html, javascript and css",
+  "main": "index.js",
+  "authors": [
+    "punya reddy"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "calculator",
+    "ui",
+    "calculator",
+    "operations"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6"
+  }
+}

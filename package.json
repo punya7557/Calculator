@@ -1,0 +1,25 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "ui calculator using html, javascript and css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punya7557/Calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "ui",
+    "calculator",
+    "operations"
+  ],
+  "author": "punya reddy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/punya7557/Calculator/issues"
+  },
+  "homepage": "https://github.com/punya7557/Calculator#readme"
+}
